@@ -1,5 +1,7 @@
 # Ecommerce
 
+![mobile (1)](https://user-images.githubusercontent.com/100864562/203941061-7f95064c-4622-4b35-9dea-dfc566e0aa39.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
 ## Development server
